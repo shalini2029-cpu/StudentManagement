@@ -1,0 +1,5 @@
+Student Management system
+Student name:Shalini
+USN:4GW25CS093
+Department:CSE
+
